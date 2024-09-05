@@ -1,2 +1,2 @@
 # SQLi_to_RCE
-Penetration test on a target
+This pentest aims to perform an internal penetration test against the Alpine machine, using a methodical approach to obtaining remote access to the Alpine machine. 
